@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1740111358 source:c:\codeblocks\sistem_gastos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
+1740111651 c:\codeblocks\sistem_gastos\arquivo.h
+
+1740111358 source:c:\codeblocks\sistem_gastos\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"arquivo.h"
+	<math.h>
+
