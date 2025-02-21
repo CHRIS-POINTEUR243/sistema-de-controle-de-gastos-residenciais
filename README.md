@@ -1,5 +1,5 @@
 
-# Domentação do Sistema de Controle de Gastos Residenciais
+# Documentação do Sistema de Controle de Gastos Residenciais
 
 ### Descrição do Sistema
 
