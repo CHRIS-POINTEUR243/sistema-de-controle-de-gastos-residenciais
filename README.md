@@ -1,5 +1,5 @@
 
-# Dumentação do Sistema de Controle de Gastos Residenciais
+# Domentação do Sistema de Controle de Gastos Residenciais
 
 ### Descrição do Sistema
 
